@@ -117,6 +117,9 @@ public final class Constants {
 	/** The Constant POJO_LINK_FACTORY */
 	public static final String  POJO_LINK_FACTORY= "pojoLinkKafkaListenerContainerFactory";
 	
+	/** The Constant DISCOVERY_FACTORY */
+	public static final String  DISCOVERY_FACTORY= "discoveryKafkaListenerContainerFactory";
+	
 	/** The Constant PROPERTY. */
 	public static final String PROPERTY = "property";
 	
