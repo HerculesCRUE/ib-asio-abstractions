@@ -19,5 +19,9 @@ public enum Operation {
     /**
      * Insert nested objects
      */
-    LINKED_INSERT
+    LINKED_INSERT,
+    /**
+     * Linked objects
+     */
+    LINK
 }
