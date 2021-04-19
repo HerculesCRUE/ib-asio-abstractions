@@ -23,5 +23,9 @@ public enum Operation {
     /**
      * Linked objects
      */
-    LINK
+    LINK,
+    /**
+     * Linked objects
+     */
+    LOD_LINK
 }
