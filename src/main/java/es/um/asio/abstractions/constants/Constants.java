@@ -10,6 +10,9 @@ public final class Constants {
 
 	/** The Constant CACHE_CANONICAL_LOCAL_URIS. */
 	public static final String CACHE_CANONICAL_LOCAL_URIS = "cacheCanonicalLocalUris";
+	
+	/** The Constant EXCEUTION_ID. */
+	public static final String EXECUTION_ID = "jobExecutionId";
 
 	/** The Constant CACHE_ENTITIES. */
 	public static final String CACHE_ENTITIES = "cacheEntities";
